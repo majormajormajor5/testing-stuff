@@ -26,5 +26,6 @@ class SonarTesting
     private function superSecretStuff()
     {
 
+
     }
 }
