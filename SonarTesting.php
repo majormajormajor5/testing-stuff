@@ -4,7 +4,7 @@ class SonarTesting
 {
     public function hello()
     {
-
+        return 'rrgr';
     }
 
     public function work()
